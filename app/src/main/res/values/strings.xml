@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mero Notes</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="save_notes">Save Notes</string>
+    <string name="add">Add</string>
+    <string name="select_a_date">Select a date</string>
+    <string name="descriptions">Descriptions</string>
+    <string name="title">Title</string>
+    <string name="notes">Notes</string>
+    <string name="delete">Delete</string>
+</resources>
